@@ -1,0 +1,20 @@
+{
+  "name": "burovalex_web-dal",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurovAlexProgrammer/WebDAL.git"
+  },
+  "keywords": [],
+  "author": "Aleksei Burov <burovalexprogrammer@gmail.com> (http://portai.ru)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BurovAlexProgrammer/WebDAL/issues"
+  },
+  "homepage": "https://github.com/BurovAlexProgrammer/WebDAL#readme"
+}

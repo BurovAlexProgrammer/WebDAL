@@ -1,6 +1,6 @@
 {
-  "name": "burovalex_web-dal",
-  "version": "0.0.1",
+  "name": "burovalex-webdal",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {

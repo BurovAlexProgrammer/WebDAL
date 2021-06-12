@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "publish": "npm version patch && npm publish"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/BurovAlexProgrammer/WebDAL/issues"
   },
-  "homepage": "https://github.com/BurovAlexProgrammer/WebDAL#readme"
+  "homepage": "https://github.com/BurovAlexProgrammer/WebDAL#readme",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
 }

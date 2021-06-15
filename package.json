@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
-    "pub": "npm version patch && npm publish"
+    "pub": "npm version patch && npm publish",
+    "up": "npm version patch"
   },
   "repository": {
     "type": "git",

@@ -3,3 +3,9 @@ export interface filmDTO {
     year: number;
     description: string;
 }
+
+export interface localeDTO {
+    title: string;
+    locale: string;
+    flagURL?: string;
+}

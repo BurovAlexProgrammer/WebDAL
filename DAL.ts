@@ -1,3 +1,8 @@
+export interface genreDTO {
+    id: number,
+    name: string
+}
+
 export interface filmDTO {
     title: string;
     year: number;
